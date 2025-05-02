@@ -1,0 +1,12 @@
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/oak_chair
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/spruce_chair
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/birch_chair
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/jungle_chair
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/acacia_chair
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/dark_oak_chair
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/mangrove_chair
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/cherry_chair
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/pale_oak_chair
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/bamboo_chair
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/warped_chair
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/crimson_chair

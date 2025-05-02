@@ -1,0 +1,30 @@
+{
+    "display": {
+      "icon": {
+        "id": "minecraft:leather_horse_armor",
+        "components": {
+          "minecraft:item_model": "minecraft:furniture/wood/bamboo_chair"
+        }
+      },
+      "title": "Arwen's Furniture 2",
+      "description": [
+        {
+          "text": "If you've installed extensions to Arwen's Furniture 2, they will appear here.",
+          "color": "gray"
+        }
+      ],
+      "background": "minecraft:block/green_concrete_powder",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:tick"
+      }
+    },
+    "rewards": {
+      "function": "af.base:advancement/root"
+    }
+  }
+  

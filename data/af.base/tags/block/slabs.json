@@ -1,0 +1,6 @@
+{
+    "description":"List of block types that count as a slab.",
+    "values": [
+        "#minecraft:slabs"
+    ]
+}

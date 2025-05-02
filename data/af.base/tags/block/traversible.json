@@ -1,0 +1,6 @@
+{
+    "description":"List of block types that can be traversed in a raycast.",
+    "values": [
+        "#af.base:replaceable"
+    ]
+}

@@ -1,0 +1,17 @@
+loot spawn ~ ~ ~ loot af.base:entities/furniture/banner/banner
+loot spawn ~ ~ ~ loot af.base:entities/furniture/banner/white_banner_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/banner/light_gray_banner_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/banner/gray_banner_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/banner/black_banner_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/banner/brown_banner_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/banner/red_banner_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/banner/orange_banner_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/banner/yellow_banner_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/banner/lime_banner_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/banner/green_banner_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/banner/cyan_banner_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/banner/light_blue_banner_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/banner/blue_banner_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/banner/purple_banner_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/banner/magenta_banner_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/banner/pink_banner_decorated

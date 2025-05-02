@@ -1,0 +1,12 @@
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/oak_couch
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/spruce_couch
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/birch_couch
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/jungle_couch
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/acacia_couch
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/dark_oak_couch
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/mangrove_couch
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/cherry_couch
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/pale_oak_couch
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/bamboo_couch
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/warped_couch
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/crimson_couch

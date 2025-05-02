@@ -1,0 +1,12 @@
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/oak_bench
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/spruce_bench
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/birch_bench
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/jungle_bench
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/acacia_bench
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/dark_oak_bench
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/mangrove_bench
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/cherry_bench
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/pale_oak_bench
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/bamboo_bench
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/warped_bench
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/crimson_bench

@@ -1,0 +1,46 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "af.wood.table_dyed",
+    "category": "building",
+    "pattern": [
+        "zz",
+        "xx",
+        "yy"
+    ],
+    "key": {
+        "x": "minecraft:birch_planks",
+        "y": "minecraft:stick",
+        "z": "minecraft:string"
+    },
+    "result": {
+        "id": "minecraft:leather_horse_armor",
+        "count": 1,
+        "components": {
+            "!minecraft:equippable": {},
+            "!minecraft:attribute_modifiers": {},
+            "minecraft:tooltip_display": {
+                "hidden_components": [
+                    "minecraft:dyed_color"
+                ]
+            },
+            "minecraft:tooltip_style": "minecraft:af_brown",
+            "minecraft:consumable": {
+                "consume_seconds": 1000000,
+                "animation": "none",
+                "sound": "block.wood.place",
+                "has_consume_particles": false
+            },
+            "minecraft:item_name": "\"furniture\"",
+            "minecraft:max_stack_size": 64,
+            "minecraft:custom_name": [
+                {"text":"Birch Table","color":"white","italic":false}
+            ],
+            "minecraft:lore": [
+                {"text":"ꜰʟᴏᴏʀ ɪᴛᴇᴍ","italic":false,"color":"gray"},
+                {"text":"ᴅʏᴇᴀʙʟᴇ","italic":false,"color":"gold"}
+            ],
+            "minecraft:item_model": "minecraft:furniture/wood/birch_table_dyed",
+            "minecraft:custom_data": "{place_type: 0, translation: [0.0f, 0.5f, 0.0f], scale: [1.0f, 1.0f, 1.0f], interaction_height: 1.05f, interaction_width: 1.05f, interaction_translation_y: -0.025f, rotation_mode: \"free\", custom_handling:\"table\"}"
+        }
+    }
+}  

@@ -1,0 +1,17 @@
+loot spawn ~ ~ ~ loot af.base:entities/furniture/rug/rug
+loot spawn ~ ~ ~ loot af.base:entities/furniture/rug/white_rug_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/rug/light_gray_rug_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/rug/gray_rug_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/rug/black_rug_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/rug/brown_rug_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/rug/red_rug_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/rug/orange_rug_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/rug/yellow_rug_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/rug/lime_rug_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/rug/green_rug_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/rug/cyan_rug_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/rug/light_blue_rug_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/rug/blue_rug_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/rug/purple_rug_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/rug/magenta_rug_decorated
+loot spawn ~ ~ ~ loot af.base:entities/furniture/rug/pink_rug_decorated

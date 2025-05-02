@@ -1,0 +1,12 @@
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/oak_end_table
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/spruce_end_table
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/birch_end_table
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/jungle_end_table
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/acacia_end_table
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/dark_oak_end_table
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/mangrove_end_table
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/cherry_end_table
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/pale_oak_end_table
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/bamboo_end_table
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/warped_end_table
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/crimson_end_table

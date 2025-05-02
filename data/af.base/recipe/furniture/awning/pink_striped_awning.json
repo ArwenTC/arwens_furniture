@@ -1,0 +1,46 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "af.awning.striped_awning",
+    "category": "building",
+    "pattern": [
+        "y y",
+        "xzx",
+        "xzx"
+    ],
+    "key": {
+        "z": "minecraft:pink_wool",
+        "x": "minecraft:string",
+        "y": "minecraft:stick"
+    },
+    "result": {
+        "id": "minecraft:leather_horse_armor",
+        "count": 1,
+        "components": {
+            "!minecraft:equippable": {},
+            "!minecraft:attribute_modifiers": {},
+            "minecraft:tooltip_display": {
+                "hidden_components": [
+                    "minecraft:dyed_color"
+                ]
+            },
+            "minecraft:tooltip_style": "minecraft:af_brown",
+            "minecraft:consumable": {
+                "consume_seconds": 1000000,
+                "animation": "none",
+                "sound": "block.wood.place",
+                "has_consume_particles": false
+            },
+            "minecraft:item_name": "\"furniture\"",
+            "minecraft:max_stack_size": 64,
+            "minecraft:custom_name": [
+                {"text":"Pink Striped Awning","color":"white","italic":false}
+            ],
+            "minecraft:lore": [
+                {"text":"ᴡᴀʟʟ ɪᴛᴇᴍ","italic":false,"color":"gray"},
+                {"text":"ᴅʏᴇᴀʙʟᴇ","italic":false,"color":"gold"}
+            ],
+            "minecraft:item_model": "minecraft:furniture/awning/pink_striped_awning",
+            "minecraft:custom_data": "{place_type: 1, translation:[0.0f, 0.0f, 0.52f], scale:[1.0f, 1.0f, 1.0f], interaction_height: 1.5f, interaction_width: 1.5f, interaction_translation_y: -1f, rotation_mode: \"4way\", custom_handling:\"none\"}"
+        }
+    }
+}  

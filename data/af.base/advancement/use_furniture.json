@@ -1,0 +1,19 @@
+{
+    "criteria": {
+      "0": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+          "item": {
+            "items": "minecraft:leather_horse_armor",
+            "components": {
+              "minecraft:item_name": "\"furniture\""
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "af.base:advancement/use_furniture"
+    }
+  }
+  
