@@ -1,0 +1,5 @@
+# Toggles the shulker hitbox setting
+execute store result score table_shulker af.settings if score table_shulker af.settings matches 0
+# Tells user the new value of the setting
+execute if score table_shulker af.settings matches 1 run tellraw @s [{storage:"af.base:string",nbt:"prefix",interpret:true},{storage:"af.base:string",nbt:"setting.start",interpret:true},{storage:"af.base:string",nbt:"setting.shulker",interpret:true},{storage:"af.base:string",nbt:"setting.end",interpret:true},{storage:"af.base:string",nbt:"true",interpret:true}]
+execute if score table_shulker af.settings matches 0 run tellraw @s [{storage:"af.base:string",nbt:"prefix",interpret:true},{storage:"af.base:string",nbt:"setting.start",interpret:true},{storage:"af.base:string",nbt:"setting.shulker",interpret:true},{storage:"af.base:string",nbt:"setting.end",interpret:true},{storage:"af.base:string",nbt:"false",interpret:true}]
