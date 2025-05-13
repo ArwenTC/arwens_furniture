@@ -1,0 +1,2 @@
+# Summons item display
+$execute rotated as @e[tag=af.furniture_display,tag=af.new,limit=1] rotated ~ 0 run summon item_display ^$(plant_position_x) ^$(plant_position_y) ^$(plant_position_z) {Tags:[af.furniture,af.plant_display,af.new]}
