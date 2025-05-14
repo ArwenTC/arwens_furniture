@@ -8,9 +8,8 @@ execute positioned ^ ^ ^2 run tag @e[type=interaction,distance=..4,tag=af.select
 # --------------------------------- #
 # Execute based on interaction tags
 
+execute as @e[tag=af.planter_interaction,tag=af.selected,type=interaction,distance=..10] run function af.base:furniture/remove/planter
 execute as @e[tag=af.furniture_interaction,tag=af.selected,type=interaction,distance=..10] run function af.base:furniture/remove/remove
-
-
 
 # --------------------------------- #
 
