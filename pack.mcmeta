@@ -1,23 +1,23 @@
 {
   "pack": {
-    "pack_format": 71,
+    "pack_format": 79,
     "description": [
-    {
-      "text": "Arwen's ",
-      "color": "#FFA67E"
-    },
-	{
-      "text": "Furniture ",
-      "color": "#92C8E4"
-    },
-	{
-      "text": "2",
-      "color": "#C888E2"
-    },
-	{
-      "text": "\nby ArwenOC",
-      "color": "gray"
-    }
-  ]
+      {
+        "text": "Arwen's ",
+        "color": "#FFA67E"
+      },
+	    {
+        "text": "Furniture ",
+        "color": "#92C8E4"
+      },
+	    {
+        "text": "2",
+        "color": "#C888E2"
+      },
+	    {
+        "text": "\nby ArwenOC",
+        "color": "gray"
+      }
+    ]
   }
 }
