@@ -1,0 +1,1 @@
+execute if block ~ ~1 ~ light[level=15] run setblock ~ ~1 ~ air

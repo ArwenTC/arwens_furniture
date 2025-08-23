@@ -2,7 +2,7 @@
 tag @s add af.remove
 
 # Drops loot item
-execute at @s run loot spawn ~ ~ ~ loot af.base:entities/utility/replace
+execute at @s facing entity @p eyes run loot spawn ^ ^ ^.2 loot af.base:entities/utility/replace
 # As item display, modifies dropped item
 execute as @e[tag=af.furniture_display,distance=..10] at @s if score @s af.furniture_id = @e[tag=af.remove,limit=1] af.furniture_id run data modify entity @e[type=item,limit=1,nbt={Item:{components:{"minecraft:custom_data":{replace:1b}}}}] Item set from entity @s item
 

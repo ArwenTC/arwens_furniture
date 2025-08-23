@@ -1,0 +1,45 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:leather_horse_armor"
+                }
+            ],
+            "functions": [
+                {
+                    "function": "minecraft:set_components",
+                    "components": {
+                        "!minecraft:equippable": {},
+                        "!minecraft:attribute_modifiers": {},
+                        "minecraft:tooltip_display": {
+                            "hidden_components": [
+                                "minecraft:dyed_color"
+                            ]
+                        },
+                        "minecraft:tooltip_style": "minecraft:af_brown",
+                        "minecraft:consumable": {
+                            "consume_seconds": 1000000,
+                            "animation": "none",
+                            "sound": "block.wood.place",
+                            "has_consume_particles": false
+                        },
+                        "minecraft:item_name": "\"furniture\"",
+                        "minecraft:max_stack_size": 64,
+                        "minecraft:custom_name": [
+                            {"text":"Exposed Copper Wall Candle","color":"white","italic":false}
+                        ],
+                        "minecraft:lore": [
+                            {"text":"ᴡᴀʟʟ ɪᴛᴇᴍ","italic":false,"color":"gray"},
+                            {"text":"ᴅʏᴇᴀʙʟᴇ","italic":false,"color":"gold"}
+                        ],
+                        "minecraft:item_model": "minecraft:furniture/candle/copper_wall_candle_0",
+                        "minecraft:custom_data": "{place_type: 1, translation: [0.0f, 0.0f, 0.0f], scale: [1.0f, 1.0f, 1.0f], interaction_height: 0.5f, interaction_width: 0.5f, interaction_translation_y: -0.25f, rotation_mode: \"4way\", custom_handling:\"wall_candle\"}"
+                    }
+                }
+            ]
+        }
+    ]
+}
