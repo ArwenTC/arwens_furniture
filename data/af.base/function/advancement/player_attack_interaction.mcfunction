@@ -13,6 +13,8 @@ execute as @e[tag=af.potion_interaction,tag=af.selected,type=interaction,distanc
 execute as @e[tag=af.candle_interaction,tag=af.selected,type=interaction,distance=..10] at @s run function af.base:furniture/remove/candle
 execute as @e[tag=af.candelabra_interaction,tag=af.selected,type=interaction,distance=..10] at @s run function af.base:furniture/remove/candelabra
 execute as @e[tag=af.wall_candle_interaction,tag=af.selected,type=interaction,distance=..10] at @s run function af.base:furniture/remove/wall_candle
+execute as @e[tag=af.wall_brazier_interaction,tag=af.selected,type=interaction,distance=..10] at @s run function af.base:furniture/remove/wall_brazier
+execute as @e[tag=af.pole_brazier_interaction,tag=af.selected,type=interaction,distance=..10] at @s run function af.base:furniture/remove/pole_brazier
 execute as @e[tag=af.chandelier_interaction,tag=af.selected,type=interaction,distance=..10] at @s run function af.base:furniture/remove/chandelier
 execute as @e[tag=af.furniture_interaction,tag=af.selected,type=interaction,distance=..10] run function af.base:furniture/remove/remove
 
