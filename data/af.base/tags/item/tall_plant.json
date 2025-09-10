@@ -1,0 +1,13 @@
+{
+    "description":"List of items that can be used in a planter. (2 Tall)",
+    "values": [
+        "sunflower",
+        "lilac",
+        "rose_bush",
+        "peony",
+        "pitcher_plant",
+        "tall_grass",
+        "large_fern",
+        "small_dripleaf"
+    ]
+}

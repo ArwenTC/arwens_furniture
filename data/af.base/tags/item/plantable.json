@@ -1,0 +1,7 @@
+{
+    "description":"List of items that can be used in a planter. (All)",
+    "values": [
+        "#af.base:plant",
+        "#af.base:tall_plant"
+    ]
+}

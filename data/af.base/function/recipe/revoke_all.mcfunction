@@ -226,3 +226,17 @@ recipe take @s af.base:furniture/rug/purple_circular_rug_decorated
 recipe take @s af.base:furniture/rug/magenta_circular_rug_decorated
 recipe take @s af.base:furniture/rug/pink_circular_rug_decorated
 recipe take @s af.base:furniture/rug/circular_rug
+
+# Planter
+recipe take @s af.base:furniture/planter/planter
+recipe take @s af.base:furniture/planter/large_planter
+recipe take @s af.base:furniture/planter/small_planter
+recipe take @s af.base:furniture/planter/basket_planter
+recipe take @s af.base:furniture/planter/large_basket_planter
+recipe take @s af.base:furniture/planter/small_basket_planter
+recipe take @s af.base:furniture/wall_planter/small_wall_planter
+recipe take @s af.base:furniture/wall_planter/wall_planter
+recipe take @s af.base:furniture/wall_planter/large_wall_planter
+recipe take @s af.base:furniture/wall_planter/small_basket_wall_planter
+recipe take @s af.base:furniture/wall_planter/basket_wall_planter
+recipe take @s af.base:furniture/wall_planter/large_basket_wall_planter

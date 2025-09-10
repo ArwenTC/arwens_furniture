@@ -1,0 +1,45 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "zyz",
+        "xxx"
+    ],
+    "key": {
+        "x": "minecraft:brick",
+        "y": "minecraft:dirt",
+        "z": "minecraft:iron_ingot"
+    },
+    "result": {
+        "id": "minecraft:leather_horse_armor",
+        "count": 1,
+        "components": {
+            "!minecraft:equippable": {},
+            "!minecraft:attribute_modifiers": {},
+            "minecraft:tooltip_display": {
+                "hidden_components": [
+                    "minecraft:dyed_color"
+                ]
+            },
+            "minecraft:tooltip_style": "minecraft:af_green",
+            "minecraft:consumable": {
+                "consume_seconds": 1000000,
+                "animation": "none",
+                "sound": "block.wood.place",
+                "has_consume_particles": false
+            },
+            "minecraft:item_name": "\"furniture\"",
+            "minecraft:max_stack_size": 64,
+            "minecraft:custom_name": [
+                {"text":"Wall Planter","color":"white","italic":false}
+            ],
+            "minecraft:lore": [
+                {"text":"ᴡᴀʟʟ ɪᴛᴇᴍ","italic":false,"color":"gray"},
+                {"text":"ᴅʏᴇᴀʙʟᴇ","italic":false,"color":"gold"},
+                {"text":"ᴘʟᴀɴᴛᴇʀ","italic":false,"color":"green"}
+            ],
+            "minecraft:item_model": "minecraft:furniture/planter/wall_planter",
+            "minecraft:custom_data": "{place_type: 1, translation: [0.0f, 0.0f, 0.5f], scale: [1.0f, 1.0f, 1.0f], interaction_height: 0.65f, interaction_width: 0.85f, interaction_translation_y: -.25f, rotation_mode: \"4way\", custom_handling:\"planter\", plant_position_x: 0.0f, plant_position_y: 0.75f, plant_position_y_1: 1.75f, plant_position_z: 0.375f}"
+        }
+    }
+}

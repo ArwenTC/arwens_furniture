@@ -7,10 +7,7 @@
       "predicate": {
         "equipment": {
           "offhand": {
-            "items": "minecraft:leather_horse_armor",
-            "components": {
-              "minecraft:item_name": "\"plant\""
-            }
+            "items": "#af.base:plantable"
           }
         }
       }

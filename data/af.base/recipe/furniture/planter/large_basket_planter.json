@@ -1,0 +1,58 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "xyx",
+        "zxz"
+    ],
+    "key": {
+        "x": "minecraft:stick",
+        "z": [
+            "minecraft:oak_planks",
+            "minecraft:spruce_planks",
+            "minecraft:birch_planks",
+            "minecraft:jungle_planks",
+            "minecraft:acacia_planks",
+            "minecraft:dark_oak_planks",
+            "minecraft:mangrove_planks",
+            "minecraft:cherry_planks",
+            "minecraft:pale_oak_planks",
+            "minecraft:bamboo_planks",
+            "minecraft:crimson_planks",
+            "minecraft:warped_planks"
+        ],
+        "y": "minecraft:dirt"
+    },
+    "result": {
+        "id": "minecraft:leather_horse_armor",
+        "count": 1,
+        "components": {
+            "!minecraft:equippable": {},
+            "!minecraft:attribute_modifiers": {},
+            "minecraft:tooltip_display": {
+                "hidden_components": [
+                    "minecraft:dyed_color"
+                ]
+            },
+            "minecraft:tooltip_style": "minecraft:af_green",
+            "minecraft:consumable": {
+                "consume_seconds": 1000000,
+                "animation": "none",
+                "sound": "block.wood.place",
+                "has_consume_particles": false
+            },
+            "minecraft:item_name": "\"furniture\"",
+            "minecraft:max_stack_size": 64,
+            "minecraft:custom_name": [
+                {"text":"Large Basket Planter","color":"white","italic":false}
+            ],
+            "minecraft:lore": [
+                {"text":"ꜰʟᴏᴏʀ ɪᴛᴇᴍ","italic":false,"color":"gray"},
+                {"text":"ᴅʏᴇᴀʙʟᴇ","italic":false,"color":"gold"},
+                {"text":"ᴘʟᴀɴᴛᴇʀ","italic":false,"color":"green"}
+            ],
+            "minecraft:item_model": "minecraft:furniture/planter/large_basket_planter",
+            "minecraft:custom_data": "{place_type: 0, translation: [0.0f, 0.5f, 0.0f], scale: [1.0f, 1.0f, 1.0f], interaction_height: 0.85f, interaction_width: 0.85f, interaction_translation_y: 0f, rotation_mode: \"free\", custom_handling:\"planter\", plant_position_x: 0.0f, plant_position_y: 1.125f, plant_position_y_1: 2.125f, plant_position_z: 0.0f}"
+        }
+    }
+}

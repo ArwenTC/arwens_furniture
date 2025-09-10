@@ -1,0 +1,38 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:leather_horse_armor"
+                }
+            ],
+            "functions": [
+                {
+                    "function": "minecraft:set_components",
+                    "components": {
+                        "!minecraft:equippable": {},
+                        "!minecraft:attribute_modifiers": {},
+                        "minecraft:tooltip_display": {
+                            "hidden_components": [
+                                "minecraft:dyed_color"
+                            ]
+                        },
+                        "minecraft:tooltip_style": "minecraft:af_green",
+                        "minecraft:item_name": "\"plant\"",
+                        "minecraft:max_stack_size": 64,
+                        "minecraft:custom_name": [
+                            {"text":"Spider Plant","color":"white","italic":false}
+                        ],
+                        "minecraft:lore": [
+                            {"text":"ᴘʟᴀɴᴛ","italic":false,"color":"green"}
+                        ],
+                        "minecraft:item_model": "minecraft:furniture/plant/spider_plant",
+                        "minecraft:custom_data": "{plant:1b, plant_size:0}"
+                    }
+                }
+            ]
+        }
+    ]
+}
