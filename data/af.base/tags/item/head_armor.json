@@ -1,0 +1,7 @@
+{
+    "description":"List of items that can put on a statue (head)",
+    "values": [
+        "#minecraft:head_armor",
+        "minecraft:carved_pumpkin"
+    ]
+}

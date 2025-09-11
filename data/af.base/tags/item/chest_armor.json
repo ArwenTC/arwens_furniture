@@ -1,0 +1,6 @@
+{
+    "description":"List of items that can put on a statue (chest)",
+    "values": [
+        "#minecraft:chest_armor"
+    ]
+}

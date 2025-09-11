@@ -1,0 +1,6 @@
+{
+    "description":"List of items that can put on a mannequin (feet)",
+    "values": [
+        "#minecraft:foot_armor"
+    ]
+}

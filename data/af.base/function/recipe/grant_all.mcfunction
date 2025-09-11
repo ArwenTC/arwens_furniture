@@ -240,3 +240,17 @@ recipe give @s af.base:furniture/wall_planter/large_wall_planter
 recipe give @s af.base:furniture/wall_planter/small_basket_wall_planter
 recipe give @s af.base:furniture/wall_planter/basket_wall_planter
 recipe give @s af.base:furniture/wall_planter/large_basket_wall_planter
+
+# Brazier
+recipe give @s af.base:furniture/brazier/brazier
+recipe give @s af.base:furniture/brazier/wall_brazier
+recipe give @s af.base:furniture/brazier/pole_brazier
+recipe give @s af.base:furniture/brazier/golden_brazier
+recipe give @s af.base:furniture/brazier/golden_wall_brazier
+recipe give @s af.base:furniture/brazier/golden_pole_brazier
+recipe give @s af.base:furniture/brazier/copper_brazier
+recipe give @s af.base:furniture/brazier/copper_wall_brazier
+recipe give @s af.base:furniture/brazier/copper_pole_brazier
+recipe give @s af.base:furniture/brazier/copper_brazier_0
+recipe give @s af.base:furniture/brazier/copper_wall_brazier_0
+recipe give @s af.base:furniture/brazier/copper_pole_brazier_0
