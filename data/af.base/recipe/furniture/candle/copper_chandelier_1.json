@@ -1,0 +1,65 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "af.candle.chandelier",
+    "category": "building",
+    "pattern": [
+        "y y",
+        "xxx"
+    ],
+    "key": {
+        "x": [
+            "minecraft:weathered_copper",
+            "minecraft:waxed_weathered_copper"
+        ],
+        "y": [
+            "candle",
+            "white_candle",
+            "light_gray_candle",
+            "gray_candle",
+            "black_candle",
+            "brown_candle",
+            "red_candle",
+            "orange_candle",
+            "yellow_candle",
+            "lime_candle",
+            "green_candle",
+            "cyan_candle",
+            "light_blue_candle",
+            "blue_candle",
+            "purple_candle",
+            "magenta_candle",
+            "pink_candle"
+        ]
+    },
+    "result": {
+        "id": "minecraft:leather_horse_armor",
+        "count": 1,
+        "components": {
+            "!minecraft:equippable": {},
+            "!minecraft:attribute_modifiers": {},
+            "minecraft:tooltip_display": {
+                "hidden_components": [
+                    "minecraft:dyed_color"
+                ]
+            },
+            "minecraft:tooltip_style": "minecraft:af_brown",
+            "minecraft:consumable": {
+                "consume_seconds": 1000000,
+                "animation": "none",
+                "sound": "block.wood.place",
+                "has_consume_particles": false
+            },
+            "minecraft:item_name": "\"furniture\"",
+            "minecraft:max_stack_size": 64,
+            "minecraft:custom_name": [
+                {"text":"Weathered Copper Chandelier","color":"white","italic":false}
+            ],
+            "minecraft:lore": [
+                {"text":"ᴄᴇɪʟɪɴɢ ɪᴛᴇᴍ","italic":false,"color":"gray"},
+                {"text":"ᴅʏᴇᴀʙʟᴇ","italic":false,"color":"gold"}
+            ],
+            "minecraft:item_model": "minecraft:furniture/candle/copper_chandelier_1",
+            "minecraft:custom_data": "{place_type: 2, translation: [0.0f, -0.5f, 0.0f], scale: [1.0f, 1.0f, 1.0f], interaction_height: 1.0f, interaction_width: 1.0f, interaction_translation_y: -1.0f, rotation_mode: \"free\", custom_handling:\"chandelier\"}"
+        }
+    }
+}

@@ -17,6 +17,7 @@ execute as @e[tag=af.wall_brazier_interaction,tag=af.selected,type=interaction,d
 execute as @e[tag=af.pole_brazier_interaction,tag=af.selected,type=interaction,distance=..10] at @s run function af.base:furniture/remove/pole_brazier
 execute as @e[tag=af.chandelier_interaction,tag=af.selected,type=interaction,distance=..10] at @s run function af.base:furniture/remove/chandelier
 execute as @e[tag=af.statue_interaction,tag=af.selected,type=interaction,distance=..10] at @s run function af.base:furniture/remove/statue
+execute as @e[tag=af.statue_legless_interaction,tag=af.selected,type=interaction,distance=..10] at @s run function af.base:furniture/remove/statue
 execute as @e[tag=af.furniture_interaction,tag=af.selected,type=interaction,distance=..10] run function af.base:furniture/remove/remove
 
 # --------------------------------- #

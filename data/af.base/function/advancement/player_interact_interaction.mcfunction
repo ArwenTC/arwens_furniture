@@ -11,6 +11,7 @@ execute positioned ^ ^ ^2 run tag @e[type=interaction,distance=..4,tag=af.select
 execute if entity @e[tag=af.furniture_interaction,tag=af.seat_interaction,tag=af.selected,type=interaction,distance=..10] run function af.base:furniture/action/sit
 execute if entity @e[tag=af.furniture_interaction,tag=af.variant_interaction,tag=af.selected,type=interaction,distance=..10] run function af.base:furniture/action/variant
 execute if entity @e[tag=af.furniture_interaction,tag=af.statue_interaction,tag=af.selected,type=interaction,distance=..10] run function af.base:furniture/action/statue
+execute if entity @e[tag=af.furniture_interaction,tag=af.statue_legless_interaction,tag=af.selected,type=interaction,distance=..10] run function af.base:furniture/action/statue_legless
 execute if entity @e[tag=af.furniture_interaction,tag=af.potion_interaction,tag=af.selected,type=interaction,distance=..10] run function af.base:furniture/action/potion
 execute if entity @e[tag=af.furniture_interaction,tag=af.planter_interaction,tag=af.selected,type=interaction,distance=..10] run function af.base:furniture/action/plant
 

@@ -241,6 +241,32 @@ recipe give @s af.base:furniture/wall_planter/small_basket_wall_planter
 recipe give @s af.base:furniture/wall_planter/basket_wall_planter
 recipe give @s af.base:furniture/wall_planter/large_basket_wall_planter
 
+# Candles
+recipe give @s af.base:furniture/candle/candle
+recipe give @s af.base:furniture/candle/wall_candle
+recipe give @s af.base:furniture/candle/candelabra
+recipe give @s af.base:furniture/candle/chandelier
+recipe give @s af.base:furniture/candle/golden_candle
+recipe give @s af.base:furniture/candle/golden_wall_candle
+recipe give @s af.base:furniture/candle/golden_candelabra
+recipe give @s af.base:furniture/candle/golden_chandelier
+recipe give @s af.base:furniture/candle/copper_candle
+recipe give @s af.base:furniture/candle/copper_wall_candle
+recipe give @s af.base:furniture/candle/copper_candelabra
+recipe give @s af.base:furniture/candle/copper_chandelier
+recipe give @s af.base:furniture/candle/copper_candle_0
+recipe give @s af.base:furniture/candle/copper_wall_candle_0
+recipe give @s af.base:furniture/candle/copper_candelabra_0
+recipe give @s af.base:furniture/candle/copper_chandelier_0
+recipe give @s af.base:furniture/candle/copper_candle_1
+recipe give @s af.base:furniture/candle/copper_wall_candle_1
+recipe give @s af.base:furniture/candle/copper_candelabra_1
+recipe give @s af.base:furniture/candle/copper_chandelier_1
+recipe give @s af.base:furniture/candle/copper_candle_2
+recipe give @s af.base:furniture/candle/copper_wall_candle_2
+recipe give @s af.base:furniture/candle/copper_candelabra_2
+recipe give @s af.base:furniture/candle/copper_chandelier_2
+
 # Brazier
 recipe give @s af.base:furniture/brazier/brazier
 recipe give @s af.base:furniture/brazier/wall_brazier
@@ -254,3 +280,47 @@ recipe give @s af.base:furniture/brazier/copper_pole_brazier
 recipe give @s af.base:furniture/brazier/copper_brazier_0
 recipe give @s af.base:furniture/brazier/copper_wall_brazier_0
 recipe give @s af.base:furniture/brazier/copper_pole_brazier_0
+recipe give @s af.base:furniture/brazier/copper_brazier_1
+recipe give @s af.base:furniture/brazier/copper_wall_brazier_1
+recipe give @s af.base:furniture/brazier/copper_pole_brazier_1
+recipe give @s af.base:furniture/brazier/copper_brazier_2
+recipe give @s af.base:furniture/brazier/copper_wall_brazier_2
+recipe give @s af.base:furniture/brazier/copper_pole_brazier_2
+
+# Bottles
+recipe give @s af.base:furniture/potion/bottle
+recipe give @s af.base:furniture/potion/tall_bottle
+recipe give @s af.base:furniture/potion/large_bottle
+recipe give @s af.base:furniture/potion/large_tall_bottle
+recipe give @s af.base:furniture/potion/giant_bottle
+recipe give @s af.base:furniture/potion/gigantic_bottle
+
+# Frame
+recipe give @s af.base:furniture/frame/frame
+
+# Mannequin
+recipe give @s af.base:furniture/statue/stone
+recipe give @s af.base:furniture/statue/oak
+recipe give @s af.base:furniture/statue/oak_legless
+recipe give @s af.base:furniture/statue/spruce
+recipe give @s af.base:furniture/statue/spruce_legless
+recipe give @s af.base:furniture/statue/birch
+recipe give @s af.base:furniture/statue/birch_legless
+recipe give @s af.base:furniture/statue/jungle
+recipe give @s af.base:furniture/statue/jungle_legless
+recipe give @s af.base:furniture/statue/acacia
+recipe give @s af.base:furniture/statue/acacia_legless
+recipe give @s af.base:furniture/statue/dark_oak
+recipe give @s af.base:furniture/statue/dark_oak_legless
+recipe give @s af.base:furniture/statue/mangrove
+recipe give @s af.base:furniture/statue/mangrove_legless
+recipe give @s af.base:furniture/statue/cherry
+recipe give @s af.base:furniture/statue/cherry_legless
+recipe give @s af.base:furniture/statue/pale_oak
+recipe give @s af.base:furniture/statue/pale_oak_legless
+recipe give @s af.base:furniture/statue/bamboo
+recipe give @s af.base:furniture/statue/bamboo_legless
+recipe give @s af.base:furniture/statue/warped
+recipe give @s af.base:furniture/statue/warped_legless
+recipe give @s af.base:furniture/statue/crimson
+recipe give @s af.base:furniture/statue/crimson_legless

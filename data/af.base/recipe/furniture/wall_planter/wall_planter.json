@@ -1,5 +1,6 @@
 {
     "type": "minecraft:crafting_shaped",
+	"group": "af.wall_planter",
     "category": "building",
     "pattern": [
         "zyz",

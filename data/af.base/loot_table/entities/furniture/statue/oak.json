@@ -1,0 +1,46 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:leather_horse_armor"
+                }
+            ],
+            "functions": [
+                {
+                    "function": "minecraft:set_components",
+                    "components": {
+                        "!minecraft:equippable": {},
+                        "!minecraft:attribute_modifiers": {},
+                        "minecraft:tooltip_display": {
+                            "hidden_components": [
+                                "minecraft:dyed_color"
+                            ]
+                        },
+                        "minecraft:tooltip_style": "minecraft:af_brown",
+                        "minecraft:consumable": {
+                            "consume_seconds": 1000000,
+                            "animation": "none",
+                            "sound": "block.wood.place",
+                            "has_consume_particles": false
+                        },
+                        "minecraft:item_name": "\"furniture\"",
+                        "minecraft:max_stack_size": 64,
+                        "minecraft:custom_name": [
+                            {"text":"Oak Mannequin","color":"white","italic":false}
+                        ],
+                        "minecraft:lore": [
+                            {"text":"ꜰʟᴏᴏʀ ɪᴛᴇᴍ","italic":false,"color":"gray"},
+                            {"text":"ѕᴛᴀᴛᴜᴇ","italic":false,"color":"white"},
+							{"text":"ᴠᴀʀɪᴀɴᴛѕ","italic":false,"color":"yellow"}
+                        ],
+                        "minecraft:item_model": "minecraft:furniture/statue/oak",
+                        "minecraft:custom_data": "{variants: [\"minecraft:furniture/statue/oak_0\",\"minecraft:furniture/statue/oak_1\",\"minecraft:furniture/statue/oak_2\",\"minecraft:furniture/statue/oak_3\",\"minecraft:furniture/statue/oak_4\"], poses: [{Body:[0.0f,-10.0f,0.0f],Head:[0.0f,0.0f,0.0f],LeftArm:[30.0f,0.0f,0.0f],RightArm:[-30.0f,0.0f,0.0f],LeftLeg:[-20.0f,0.0f,0.0f],RightLeg:[20.0f,0.0f,0.0f]},{Body:[0.0f,10.0f,0.0f],Head:[0.0f,0.0f,0.0f],LeftArm:[-30.0f,0.0f,0.0f],RightArm:[30.0f,0.0f,0.0f],LeftLeg:[20.0f,0.0f,0.0f],RightLeg:[-20.0f,0.0f,0.0f]},{Body:[-2.5f,0.0f,0.0f],Head:[-17.5f,0.0f,0.0f],LeftArm:[1.0f,0.0f,-12.5f],RightArm:[1.0f,0.0f,12.5f],LeftLeg:[1.0f,0.0f,-5.0f],RightLeg:[-1.0f,0.0f,5.0f]},{Body:[2.5f,0.0f,0.0f],Head:[5.0f,0.0f,0.0f],LeftArm:[20.0f,0.0f,0.0f],RightArm:[20.0f,0.0f,0.0f],LeftLeg:[17.5f,0.0f,0.0f],RightLeg:[-20.0f,0.0f,0.0f]},{Body:[0.0f,0.0f,0.0f],Head:[-12.5f,0.0f,0.0f],LeftArm:[179.0f,0.0f,20.0f],RightArm:[179.0f,0.0f,-20.0f],LeftLeg:[10.0f,0.0f,0.0f],RightLeg:[0.0f,0.0f,5.0f]}], pose: {Body:[0.0f,0.0f,0.0f],Head:[0.0f,0.0f,0.0f],LeftArm:[1.0f,0.0f,0.0f],RightArm:[1.0f,0.0f,0.0f],LeftLeg:[0.0f,0.0f,0.0f],RightLeg:[0.0f,0.0f,0.0f]}, place_type: 0, translation: [0.0f, 0.5f, 0.0f], scale: [1.0f, 1.0f, 1.0f], interaction_height: 1.9f, interaction_width: 0.8f, interaction_translation_y: 0.0f, rotation_mode: \"free\", custom_handling:\"statue\"}"
+                    }
+                }
+            ]
+        }
+    ]
+}

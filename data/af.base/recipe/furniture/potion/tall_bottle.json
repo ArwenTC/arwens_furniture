@@ -1,0 +1,44 @@
+{
+    "type": "minecraft:crafting_shaped",
+	"group": "af.bottle",
+    "category": "building",
+    "pattern": [
+        "x x",
+        "x x",
+        "xxx"
+    ],
+    "key": {
+        "x": "minecraft:glass_pane"
+    },
+    "result": {
+        "id": "minecraft:leather_horse_armor",
+        "count": 1,
+        "components": {
+            "!minecraft:equippable": {},
+            "!minecraft:attribute_modifiers": {},
+            "minecraft:tooltip_display": {
+                "hidden_components": [
+                    "minecraft:dyed_color"
+                ]
+            },
+            "minecraft:tooltip_style": "minecraft:af_light_blue",
+            "minecraft:consumable": {
+                "consume_seconds": 1000000,
+                "animation": "none",
+                "sound": "block.wood.place",
+                "has_consume_particles": false
+            },
+            "minecraft:item_name": "\"furniture\"",
+            "minecraft:max_stack_size": 64,
+            "minecraft:custom_name": [
+                {"text":"Tall Potion Bottle","color":"white","italic":false}
+            ],
+            "minecraft:lore": [
+                {"text":"ꜰʟᴏᴏʀ ɪᴛᴇᴍ","italic":false,"color":"gray"},
+                {"text":"ꜰɪʟʟᴀʙʟᴇ","italic":false,"color":"gold"}
+            ],
+            "minecraft:item_model": "minecraft:furniture/potion/tall_bottle",
+            "minecraft:custom_data": "{variants:[\"minecraft:furniture/potion/tall_bottle\",\"minecraft:furniture/potion/tall_bottle_water\",\"minecraft:furniture/potion/tall_bottle_potion\"], place_type: 0, translation: [0.0f, 0.5f, 0.0f], scale: [1.0f, 1.0f, 1.0f], interaction_height: 1.0f, interaction_width: 0.4f, interaction_translation_y: 0f, rotation_mode: \"free\", custom_handling:\"potion\"}"
+        }
+    }
+}

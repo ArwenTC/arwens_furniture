@@ -240,3 +240,87 @@ recipe take @s af.base:furniture/wall_planter/large_wall_planter
 recipe take @s af.base:furniture/wall_planter/small_basket_wall_planter
 recipe take @s af.base:furniture/wall_planter/basket_wall_planter
 recipe take @s af.base:furniture/wall_planter/large_basket_wall_planter
+
+# Candles
+recipe take @s af.base:furniture/candle/candle
+recipe take @s af.base:furniture/candle/wall_candle
+recipe take @s af.base:furniture/candle/candelabra
+recipe take @s af.base:furniture/candle/chandelier
+recipe take @s af.base:furniture/candle/golden_candle
+recipe take @s af.base:furniture/candle/golden_wall_candle
+recipe take @s af.base:furniture/candle/golden_candelabra
+recipe take @s af.base:furniture/candle/golden_chandelier
+recipe take @s af.base:furniture/candle/copper_candle
+recipe take @s af.base:furniture/candle/copper_wall_candle
+recipe take @s af.base:furniture/candle/copper_candelabra
+recipe take @s af.base:furniture/candle/copper_chandelier
+recipe take @s af.base:furniture/candle/copper_candle_0
+recipe take @s af.base:furniture/candle/copper_wall_candle_0
+recipe take @s af.base:furniture/candle/copper_candelabra_0
+recipe take @s af.base:furniture/candle/copper_chandelier_0
+recipe take @s af.base:furniture/candle/copper_candle_1
+recipe take @s af.base:furniture/candle/copper_wall_candle_1
+recipe take @s af.base:furniture/candle/copper_candelabra_1
+recipe take @s af.base:furniture/candle/copper_chandelier_1
+recipe take @s af.base:furniture/candle/copper_candle_2
+recipe take @s af.base:furniture/candle/copper_wall_candle_2
+recipe take @s af.base:furniture/candle/copper_candelabra_2
+recipe take @s af.base:furniture/candle/copper_chandelier_2
+
+# Brazier
+recipe take @s af.base:furniture/brazier/brazier
+recipe take @s af.base:furniture/brazier/wall_brazier
+recipe take @s af.base:furniture/brazier/pole_brazier
+recipe take @s af.base:furniture/brazier/golden_brazier
+recipe take @s af.base:furniture/brazier/golden_wall_brazier
+recipe take @s af.base:furniture/brazier/golden_pole_brazier
+recipe take @s af.base:furniture/brazier/copper_brazier
+recipe take @s af.base:furniture/brazier/copper_wall_brazier
+recipe take @s af.base:furniture/brazier/copper_pole_brazier
+recipe take @s af.base:furniture/brazier/copper_brazier_0
+recipe take @s af.base:furniture/brazier/copper_wall_brazier_0
+recipe take @s af.base:furniture/brazier/copper_pole_brazier_0
+recipe take @s af.base:furniture/brazier/copper_brazier_1
+recipe take @s af.base:furniture/brazier/copper_wall_brazier_1
+recipe take @s af.base:furniture/brazier/copper_pole_brazier_1
+recipe take @s af.base:furniture/brazier/copper_brazier_2
+recipe take @s af.base:furniture/brazier/copper_wall_brazier_2
+recipe take @s af.base:furniture/brazier/copper_pole_brazier_2
+
+# Bottles
+recipe take @s af.base:furniture/potion/bottle
+recipe take @s af.base:furniture/potion/tall_bottle
+recipe take @s af.base:furniture/potion/large_bottle
+recipe take @s af.base:furniture/potion/large_tall_bottle
+recipe take @s af.base:furniture/potion/giant_bottle
+recipe take @s af.base:furniture/potion/gigantic_bottle
+
+# Frame
+recipe take @s af.base:furniture/frame/frame
+
+# Statues
+recipe take @s af.base:furniture/statue/stone
+recipe take @s af.base:furniture/statue/oak
+recipe take @s af.base:furniture/statue/oak_legless
+recipe take @s af.base:furniture/statue/spruce
+recipe take @s af.base:furniture/statue/spruce_legless
+recipe take @s af.base:furniture/statue/birch
+recipe take @s af.base:furniture/statue/birch_legless
+recipe take @s af.base:furniture/statue/jungle
+recipe take @s af.base:furniture/statue/jungle_legless
+recipe take @s af.base:furniture/statue/acacia
+recipe take @s af.base:furniture/statue/acacia_legless
+recipe take @s af.base:furniture/statue/dark_oak
+recipe take @s af.base:furniture/statue/dark_oak_legless
+recipe take @s af.base:furniture/statue/mangrove
+recipe take @s af.base:furniture/statue/mangrove_legless
+recipe take @s af.base:furniture/statue/cherry
+recipe take @s af.base:furniture/statue/cherry_legless
+recipe take @s af.base:furniture/statue/pale_oak
+recipe take @s af.base:furniture/statue/pale_oak_legless
+recipe take @s af.base:furniture/statue/bamboo
+recipe take @s af.base:furniture/statue/bamboo_legless
+recipe take @s af.base:furniture/statue/warped
+recipe take @s af.base:furniture/statue/warped_legless
+recipe take @s af.base:furniture/statue/crimson
+recipe take @s af.base:furniture/statue/crimson_legless
