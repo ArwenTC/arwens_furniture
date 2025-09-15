@@ -324,3 +324,31 @@ recipe give @s af.base:furniture/statue/warped
 recipe give @s af.base:furniture/statue/warped_legless
 recipe give @s af.base:furniture/statue/crimson
 recipe give @s af.base:furniture/statue/crimson_legless
+
+# Wall Shelf
+recipe give @s af.base:furniture/wall_shelf/oak
+recipe give @s af.base:furniture/wall_shelf/spruce
+recipe give @s af.base:furniture/wall_shelf/birch
+recipe give @s af.base:furniture/wall_shelf/jungle
+recipe give @s af.base:furniture/wall_shelf/acacia
+recipe give @s af.base:furniture/wall_shelf/dark_oak
+recipe give @s af.base:furniture/wall_shelf/mangrove
+recipe give @s af.base:furniture/wall_shelf/cherry
+recipe give @s af.base:furniture/wall_shelf/pale_oak
+recipe give @s af.base:furniture/wall_shelf/bamboo
+recipe give @s af.base:furniture/wall_shelf/warped
+recipe give @s af.base:furniture/wall_shelf/crimson
+
+# Tool Rack
+recipe give @s af.base:furniture/tool_rack/oak
+recipe give @s af.base:furniture/tool_rack/spruce
+recipe give @s af.base:furniture/tool_rack/birch
+recipe give @s af.base:furniture/tool_rack/jungle
+recipe give @s af.base:furniture/tool_rack/acacia
+recipe give @s af.base:furniture/tool_rack/dark_oak
+recipe give @s af.base:furniture/tool_rack/mangrove
+recipe give @s af.base:furniture/tool_rack/cherry
+recipe give @s af.base:furniture/tool_rack/pale_oak
+recipe give @s af.base:furniture/tool_rack/bamboo
+recipe give @s af.base:furniture/tool_rack/warped
+recipe give @s af.base:furniture/tool_rack/crimson
