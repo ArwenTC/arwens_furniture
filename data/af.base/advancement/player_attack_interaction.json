@@ -1,16 +1,15 @@
 {
-    "criteria": {
-      "0": {
-        "trigger": "minecraft:player_hurt_entity",
-        "conditions": {
-          "entity": {
-            "type": "minecraft:interaction"
-          }
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "entity": {
+          "minecraft:entity_type": "minecraft:interaction"
         }
       }
-    },
-    "rewards": {
-      "function": "af.base:advancement/player_attack_interaction"
     }
+  },
+  "rewards": {
+    "function": "af.base:advancement/player_attack_interaction"
   }
-  
+}

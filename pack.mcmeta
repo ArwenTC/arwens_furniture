@@ -1,12 +1,12 @@
 {
     "pack": {
-        "pack_format": 81,
+        "pack_format": 107.1,
         "supported_formats": {
             "min_inclusive": 80,
-            "max_inclusive": 81
+            "max_inclusive": 107.1
         },
 		"min_format": 80,
-		"max_format": 88,
+		"max_format": 107.1,
         "description": [
             {
                 "text": "Arwen's ",
