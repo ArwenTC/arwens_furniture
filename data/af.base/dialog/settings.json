@@ -1,0 +1,49 @@
+{
+  "type": "minecraft:multi_action",
+  "title": [
+    { "text": "Arwen's ", "color": "#FFA67E" },
+    { "text": "Furniture ", "color": "#92C8E4" },
+    { "text": "2 ", "color": "#C888E2" }
+  ],
+  "body": {
+    "type": "minecraft:item",
+    "item": {
+      "id": "minecraft:stick",
+      "components": {
+        "minecraft:item_model": "minecraft:furniture/wood/oak_table_dyed",
+        "minecraft:dyed_color": 7114138,
+        "minecraft:tooltip_style": "minecraft:af_brown",
+        "minecraft:custom_name": {
+          "text":"Furniture Settings",
+          "italic": false
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": ["dye","dyed_color"]
+        } 
+      }
+    }
+  },
+  "inputs": [
+    {
+      "type": "minecraft:boolean",
+      "key": "af_setting0",
+      "label": "Shulker Box Table Hitboxes"
+    },
+    {
+      "type": "minecraft:number_range",
+      "key": "af2_setting1",
+      "label": {
+        "text": "Max Entities in 100 block range"
+      },
+      "start": 0,
+      "end": 1000,
+      "step": 20
+    }
+  ],
+  "columns": 1,
+  "actions": [
+    {
+      "label": "Apply Settings"
+    }
+  ]
+}

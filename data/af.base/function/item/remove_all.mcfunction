@@ -7,3 +7,6 @@ execute if entity @s[tag=af.offhand] run data modify storage af.base:argument it
 # Removes items from the selected position
 execute as @s[tag=af.mainhand,gamemode=!creative] run item replace entity @s weapon.mainhand with air
 execute as @s[tag=af.offhand,gamemode=!creative] run item replace entity @s weapon.offhand with air
+# Reset mainhand and offhand tags
+tag @s remove af.mainhand
+tag @s remove af.offhand

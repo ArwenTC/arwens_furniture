@@ -1,6 +1,6 @@
 # Tags depending on held item
-execute if items entity @s weapon.mainhand * run tag @s add af.mainhand
-execute if items entity @s weapon.offhand * run tag @s[tag=!af.mainhand] add af.offhand
+execute if items entity @s weapon.mainhand #af.base:tool_rack_item run tag @s add af.mainhand
+execute if items entity @s weapon.offhand #af.base:tool_rack_item run tag @s[tag=!af.mainhand] add af.offhand
 # Stores data from item
 execute if entity @s[tag=af.mainhand] run data modify storage af.base:argument item set from entity @s SelectedItem
 execute if entity @s[tag=af.offhand] run data modify storage af.base:argument item set from entity @s equipment.offhand
