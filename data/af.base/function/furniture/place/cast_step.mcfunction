@@ -8,6 +8,6 @@ execute if score cast_range af.data matches ..0 run scoreboard players set cast_
 execute unless block ~ ~ ~ #af.base:traversible run scoreboard players set cast_flag af.data 1
 
 # Finds the face the cast has hit
-execute if score cast_flag af.data matches 1 positioned ^ ^ ^-0.0625 store result score cast_face af.data run function af.base:furniture/place/place_check
+execute if score cast_flag af.data matches 1 positioned ^ ^ ^-0.0625 store result score cast_face af.data run function af.base:furniture/place/place_check_0
 # Continues cast forward until a flag is thrown
 execute unless score cast_flag af.data matches 0.. positioned ^ ^ ^0.0625 run function af.base:furniture/place/cast_step

@@ -3,7 +3,7 @@
       "icon": {
         "id": "minecraft:leather_horse_armor",
         "components": {
-          "minecraft:item_model": "minecraft:furniture/wood/bamboo_chair"
+          "minecraft:item_model": "minecraft:furniture/wood/oak_table"
         }
       },
       "title": "Arwen's Furniture 2",
@@ -13,7 +13,7 @@
           "color": "gray"
         }
       ],
-      "background": "minecraft:block/green_concrete_powder",
+      "background": "minecraft:block/cyan_concrete",
       "show_toast": true,
       "announce_to_chat": true,
       "hidden": false

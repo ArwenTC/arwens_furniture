@@ -1,49 +1,46 @@
 {
   "type": "minecraft:multi_action",
-  "title": [
-    { "text": "Arwen's ", "color": "#FFA67E" },
-    { "text": "Furniture ", "color": "#92C8E4" },
-    { "text": "2 ", "color": "#C888E2" }
-  ],
+  "title": "Furniture Settings",
   "body": {
     "type": "minecraft:item",
     "item": {
       "id": "minecraft:stick",
       "components": {
-        "minecraft:item_model": "minecraft:furniture/wood/oak_table_dyed",
-        "minecraft:dyed_color": 7114138,
-        "minecraft:tooltip_style": "minecraft:af_brown",
-        "minecraft:custom_name": {
-          "text":"Furniture Settings",
-          "italic": false
-        },
         "minecraft:tooltip_display": {
-          "hidden_components": ["dye","dyed_color"]
-        } 
+            "hide_tooltip": true
+        },
+        "minecraft:item_model": "minecraft:gui/settings_display"
       }
-    }
+    },
+    "height": 80
   },
   "inputs": [
     {
       "type": "minecraft:boolean",
-      "key": "af_setting0",
-      "label": "Shulker Box Table Hitboxes"
+      "key": "af2_setting0",
+      "label": "Shulker Box Table Hitboxes",
+      "initial": false
     },
     {
       "type": "minecraft:number_range",
       "key": "af2_setting1",
       "label": {
-        "text": "Max Entities in 100 block range"
+        "text": "Decorations Per 128 Blocks"
       },
       "start": 0,
-      "end": 1000,
-      "step": 20
+      "end": 1024,
+      "step": 8,
+      "initial": 1024
     }
   ],
   "columns": 1,
   "actions": [
     {
-      "label": "Apply Settings"
+      "label": "Confirm",
+      "action": {
+        "type": "minecraft:dynamic/run_command",
+        "template": "function af.base:option/apply_settings {0:$(af2_setting0),1:$(af2_setting1)}"
+      }
     }
   ]
 }

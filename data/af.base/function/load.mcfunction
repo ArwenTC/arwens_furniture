@@ -13,7 +13,8 @@ scoreboard objectives add af.cooldown dummy
 # Creates a settings objective
 scoreboard objectives add af.settings dummy
 # Default settings
-execute unless score table_shulker af.settings matches 0.. run scoreboard players set table_shulker af.settings 1
+execute unless score shulker af.settings matches 0.. run scoreboard players set shulker af.settings 0
+execute unless score entities af.settings matches 0.. run scoreboard players set entities af.settings 1024
 
 # Sets all shulkers used in the datapack to NoAI
 execute as @e[type=shulker,tag=af.furniture] run data modify entity @s NoAI set value 1b
