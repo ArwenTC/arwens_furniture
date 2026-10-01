@@ -7,6 +7,7 @@ loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/dark_oak_end_table
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/mangrove_end_table
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/cherry_end_table
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/pale_oak_end_table
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/poplar_end_table
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/bamboo_end_table
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/warped_end_table
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/crimson_end_table

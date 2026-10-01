@@ -7,6 +7,7 @@ loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/dark_oak_lounge_chair
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/mangrove_lounge_chair
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/cherry_lounge_chair
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/pale_oak_lounge_chair
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/poplar_lounge_chair
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/bamboo_lounge_chair
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/warped_lounge_chair
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/crimson_lounge_chair

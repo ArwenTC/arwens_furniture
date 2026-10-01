@@ -7,6 +7,7 @@ loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/dark_oak_dresser
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/mangrove_dresser
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/cherry_dresser
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/pale_oak_dresser
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/poplar_dresser
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/bamboo_dresser
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/warped_dresser
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/crimson_dresser

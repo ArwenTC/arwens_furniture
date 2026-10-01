@@ -7,6 +7,7 @@ loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/dark_oak_table_dyed
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/mangrove_table_dyed
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/cherry_table_dyed
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/pale_oak_table_dyed
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/poplar_table_dyed
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/bamboo_table_dyed
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/warped_table_dyed
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/crimson_table_dyed

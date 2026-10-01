@@ -7,6 +7,7 @@ loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/dark_oak_bench_dyed
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/mangrove_bench_dyed
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/cherry_bench_dyed
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/pale_oak_bench_dyed
+loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/poplar_bench_dyed
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/bamboo_bench_dyed
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/warped_bench_dyed
 loot spawn ~ ~ ~ loot af.base:entities/furniture/wood/crimson_bench_dyed

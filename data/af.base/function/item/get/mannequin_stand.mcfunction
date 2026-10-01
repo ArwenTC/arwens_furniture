@@ -8,6 +8,7 @@ loot spawn ~ ~ ~ loot af.base:entities/furniture/statue/dark_oak_legless
 loot spawn ~ ~ ~ loot af.base:entities/furniture/statue/mangrove_legless
 loot spawn ~ ~ ~ loot af.base:entities/furniture/statue/cherry_legless
 loot spawn ~ ~ ~ loot af.base:entities/furniture/statue/pale_oak_legless
+loot spawn ~ ~ ~ loot af.base:entities/furniture/statue/poplar_legless
 loot spawn ~ ~ ~ loot af.base:entities/furniture/statue/bamboo_legless
 loot spawn ~ ~ ~ loot af.base:entities/furniture/statue/warped_legless
 loot spawn ~ ~ ~ loot af.base:entities/furniture/statue/crimson_legless

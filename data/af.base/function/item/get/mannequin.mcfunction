@@ -8,6 +8,7 @@ loot spawn ~ ~ ~ loot af.base:entities/furniture/statue/dark_oak
 loot spawn ~ ~ ~ loot af.base:entities/furniture/statue/mangrove
 loot spawn ~ ~ ~ loot af.base:entities/furniture/statue/cherry
 loot spawn ~ ~ ~ loot af.base:entities/furniture/statue/pale_oak
+loot spawn ~ ~ ~ loot af.base:entities/furniture/statue/poplar
 loot spawn ~ ~ ~ loot af.base:entities/furniture/statue/bamboo
 loot spawn ~ ~ ~ loot af.base:entities/furniture/statue/warped
 loot spawn ~ ~ ~ loot af.base:entities/furniture/statue/crimson
