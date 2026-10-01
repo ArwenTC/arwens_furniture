@@ -5,6 +5,7 @@ recipe give @s af.base:furniture/wood/oak_bench
 recipe give @s af.base:furniture/wood/oak_bench_dyed
 recipe give @s af.base:furniture/wood/oak_lounge_chair
 recipe give @s af.base:furniture/wood/oak_couch
+recipe give @s af.base:furniture/wood/oak_end_table
 recipe give @s af.base:furniture/wood/oak_dresser
 recipe give @s af.base:furniture/wood/oak_table
 recipe give @s af.base:furniture/wood/oak_table_dyed
@@ -16,6 +17,7 @@ recipe give @s af.base:furniture/wood/spruce_bench
 recipe give @s af.base:furniture/wood/spruce_bench_dyed
 recipe give @s af.base:furniture/wood/spruce_lounge_chair
 recipe give @s af.base:furniture/wood/spruce_couch
+recipe give @s af.base:furniture/wood/spruce_end_table
 recipe give @s af.base:furniture/wood/spruce_dresser
 recipe give @s af.base:furniture/wood/spruce_table
 recipe give @s af.base:furniture/wood/spruce_table_dyed
@@ -27,6 +29,7 @@ recipe give @s af.base:furniture/wood/birch_bench
 recipe give @s af.base:furniture/wood/birch_bench_dyed
 recipe give @s af.base:furniture/wood/birch_lounge_chair
 recipe give @s af.base:furniture/wood/birch_couch
+recipe give @s af.base:furniture/wood/birch_end_table
 recipe give @s af.base:furniture/wood/birch_dresser
 recipe give @s af.base:furniture/wood/birch_table
 recipe give @s af.base:furniture/wood/birch_table_dyed
@@ -38,6 +41,7 @@ recipe give @s af.base:furniture/wood/jungle_bench
 recipe give @s af.base:furniture/wood/jungle_bench_dyed
 recipe give @s af.base:furniture/wood/jungle_lounge_chair
 recipe give @s af.base:furniture/wood/jungle_couch
+recipe give @s af.base:furniture/wood/jungle_end_table
 recipe give @s af.base:furniture/wood/jungle_dresser
 recipe give @s af.base:furniture/wood/jungle_table
 recipe give @s af.base:furniture/wood/jungle_table_dyed
@@ -49,6 +53,7 @@ recipe give @s af.base:furniture/wood/acacia_bench
 recipe give @s af.base:furniture/wood/acacia_bench_dyed
 recipe give @s af.base:furniture/wood/acacia_lounge_chair
 recipe give @s af.base:furniture/wood/acacia_couch
+recipe give @s af.base:furniture/wood/acacia_end_table
 recipe give @s af.base:furniture/wood/acacia_dresser
 recipe give @s af.base:furniture/wood/acacia_table
 recipe give @s af.base:furniture/wood/acacia_table_dyed
@@ -60,6 +65,7 @@ recipe give @s af.base:furniture/wood/dark_oak_bench
 recipe give @s af.base:furniture/wood/dark_oak_bench_dyed
 recipe give @s af.base:furniture/wood/dark_oak_lounge_chair
 recipe give @s af.base:furniture/wood/dark_oak_couch
+recipe give @s af.base:furniture/wood/dark_oak_end_table
 recipe give @s af.base:furniture/wood/dark_oak_dresser
 recipe give @s af.base:furniture/wood/dark_oak_table
 recipe give @s af.base:furniture/wood/dark_oak_table_dyed
@@ -71,6 +77,7 @@ recipe give @s af.base:furniture/wood/mangrove_bench
 recipe give @s af.base:furniture/wood/mangrove_bench_dyed
 recipe give @s af.base:furniture/wood/mangrove_lounge_chair
 recipe give @s af.base:furniture/wood/mangrove_couch
+recipe give @s af.base:furniture/wood/mangrove_end_table
 recipe give @s af.base:furniture/wood/mangrove_dresser
 recipe give @s af.base:furniture/wood/mangrove_table
 recipe give @s af.base:furniture/wood/mangrove_table_dyed
@@ -82,6 +89,7 @@ recipe give @s af.base:furniture/wood/cherry_bench
 recipe give @s af.base:furniture/wood/cherry_bench_dyed
 recipe give @s af.base:furniture/wood/cherry_lounge_chair
 recipe give @s af.base:furniture/wood/cherry_couch
+recipe give @s af.base:furniture/wood/cherry_end_table
 recipe give @s af.base:furniture/wood/cherry_dresser
 recipe give @s af.base:furniture/wood/cherry_table
 recipe give @s af.base:furniture/wood/cherry_table_dyed
@@ -93,17 +101,31 @@ recipe give @s af.base:furniture/wood/pale_oak_bench
 recipe give @s af.base:furniture/wood/pale_oak_bench_dyed
 recipe give @s af.base:furniture/wood/pale_oak_lounge_chair
 recipe give @s af.base:furniture/wood/pale_oak_couch
+recipe give @s af.base:furniture/wood/pale_oak_end_table
 recipe give @s af.base:furniture/wood/pale_oak_dresser
 recipe give @s af.base:furniture/wood/pale_oak_table
 recipe give @s af.base:furniture/wood/pale_oak_table_dyed
 recipe give @s af.base:furniture/wood/pale_oak_large_table
 recipe give @s af.base:furniture/wood/pale_oak_large_table_dyed
+recipe give @s af.base:furniture/wood/poplar_chair
+recipe give @s af.base:furniture/wood/poplar_chair_dyed
+recipe give @s af.base:furniture/wood/poplar_bench
+recipe give @s af.base:furniture/wood/poplar_bench_dyed
+recipe give @s af.base:furniture/wood/poplar_lounge_chair
+recipe give @s af.base:furniture/wood/poplar_couch
+recipe give @s af.base:furniture/wood/poplar_end_table
+recipe give @s af.base:furniture/wood/poplar_dresser
+recipe give @s af.base:furniture/wood/poplar_table
+recipe give @s af.base:furniture/wood/poplar_table_dyed
+recipe give @s af.base:furniture/wood/poplar_large_table
+recipe give @s af.base:furniture/wood/poplar_large_table_dyed
 recipe give @s af.base:furniture/wood/bamboo_chair
 recipe give @s af.base:furniture/wood/bamboo_chair_dyed
 recipe give @s af.base:furniture/wood/bamboo_bench
 recipe give @s af.base:furniture/wood/bamboo_bench_dyed
 recipe give @s af.base:furniture/wood/bamboo_lounge_chair
 recipe give @s af.base:furniture/wood/bamboo_couch
+recipe give @s af.base:furniture/wood/bamboo_end_table
 recipe give @s af.base:furniture/wood/bamboo_dresser
 recipe give @s af.base:furniture/wood/bamboo_table
 recipe give @s af.base:furniture/wood/bamboo_table_dyed
@@ -115,6 +137,7 @@ recipe give @s af.base:furniture/wood/warped_bench
 recipe give @s af.base:furniture/wood/warped_bench_dyed
 recipe give @s af.base:furniture/wood/warped_lounge_chair
 recipe give @s af.base:furniture/wood/warped_couch
+recipe give @s af.base:furniture/wood/warped_end_table
 recipe give @s af.base:furniture/wood/warped_dresser
 recipe give @s af.base:furniture/wood/warped_table
 recipe give @s af.base:furniture/wood/warped_table_dyed
@@ -126,6 +149,7 @@ recipe give @s af.base:furniture/wood/crimson_bench
 recipe give @s af.base:furniture/wood/crimson_bench_dyed
 recipe give @s af.base:furniture/wood/crimson_lounge_chair
 recipe give @s af.base:furniture/wood/crimson_couch
+recipe give @s af.base:furniture/wood/crimson_end_table
 recipe give @s af.base:furniture/wood/crimson_dresser
 recipe give @s af.base:furniture/wood/crimson_table
 recipe give @s af.base:furniture/wood/crimson_table_dyed
@@ -318,6 +342,8 @@ recipe give @s af.base:furniture/statue/cherry
 recipe give @s af.base:furniture/statue/cherry_legless
 recipe give @s af.base:furniture/statue/pale_oak
 recipe give @s af.base:furniture/statue/pale_oak_legless
+recipe give @s af.base:furniture/statue/poplar
+recipe give @s af.base:furniture/statue/poplar_legless
 recipe give @s af.base:furniture/statue/bamboo
 recipe give @s af.base:furniture/statue/bamboo_legless
 recipe give @s af.base:furniture/statue/warped
@@ -335,6 +361,7 @@ recipe give @s af.base:furniture/wall_shelf/dark_oak
 recipe give @s af.base:furniture/wall_shelf/mangrove
 recipe give @s af.base:furniture/wall_shelf/cherry
 recipe give @s af.base:furniture/wall_shelf/pale_oak
+recipe give @s af.base:furniture/wall_shelf/poplar
 recipe give @s af.base:furniture/wall_shelf/bamboo
 recipe give @s af.base:furniture/wall_shelf/warped
 recipe give @s af.base:furniture/wall_shelf/crimson
@@ -349,6 +376,7 @@ recipe give @s af.base:furniture/tool_rack/dark_oak
 recipe give @s af.base:furniture/tool_rack/mangrove
 recipe give @s af.base:furniture/tool_rack/cherry
 recipe give @s af.base:furniture/tool_rack/pale_oak
+recipe give @s af.base:furniture/tool_rack/poplar
 recipe give @s af.base:furniture/tool_rack/bamboo
 recipe give @s af.base:furniture/tool_rack/warped
 recipe give @s af.base:furniture/tool_rack/crimson
