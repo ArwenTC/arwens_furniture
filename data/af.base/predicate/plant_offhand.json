@@ -1,8 +1,8 @@
 {
-  "condition": "minecraft:all_of", 
+  "type": "minecraft:all_of", 
   "terms": [
     {
-      "condition": "minecraft:entity_properties",
+      "type": "minecraft:entity_properties",
       "entity": "this",
       "predicate": {
         "equipment": {
@@ -13,11 +13,8 @@
       }
     },
     {
-      "condition": "minecraft:inverted",
-      "term": {
-        "condition": "minecraft:reference",
-        "name": "af.base:plant_mainhand"
-      }
+      "type": "minecraft:inverted",
+      "term": "af.base:plant_mainhand"
     }
   ]
 }

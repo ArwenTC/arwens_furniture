@@ -25,3 +25,5 @@ execute as @e[tag=af.selection] run data remove entity @s interaction
 # Removes selected interactions
 tag @e[tag=af.selection] remove af.selection
 tag @e[tag=af.selected] remove af.selected
+
+say hi
